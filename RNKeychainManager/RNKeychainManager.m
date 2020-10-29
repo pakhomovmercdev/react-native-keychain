@@ -15,7 +15,6 @@
 #if TARGET_OS_IOS
 #import <LocalAuthentication/LAContext.h>
 #endif
-#import <UIKit/UIKit.h>
 
 @implementation RNKeychainManager
 
